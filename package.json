@@ -1,0 +1,22 @@
+{
+  "name": "bbht_testautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordonkoehler-svg/bbht_testautomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordonkoehler-svg/bbht_testautomation/issues"
+  },
+  "homepage": "https://github.com/gordonkoehler-svg/bbht_testautomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.1"
+  }
+}
